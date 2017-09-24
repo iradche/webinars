@@ -6,8 +6,8 @@
 Один из создателей проекта по дата-журналистике: datadrivenjournlism.ru
 
 ### О чем вебинар и для кого вебинар
-В серии вебинаров будет рассказано и показано как работать со статистическими данными.      
-В рамках первого вебинара мы посмотрим как и где искать статистические данные, какие существуют источники. 
+В серии вебинаров будет рассказано и показано как работать со статистическими данными.            
+В рамках первого вебинара мы посмотрим как и где искать статистические данные, какие существуют источники данных.       
 Вебинар ориентирован, в первую очередь, на журналистов и активистов, то есть на тех людей, которые очень бы хотели научиться работать со статистическими данными и открытыми данными.     
 
 
@@ -27,8 +27,12 @@
 3. Коллекция полезных ссылок по Открытым данным и Дата-журналистике: https://data-journalism.zeef.com/irina.radchenko#_=_     
 
 ###  Полезные ссылки
-1. 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/      
-2. A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
+Конвертер форматов данных: http://www.convertcsv.com/      
+
+
+
+* 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/      
+* A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
 
 
 
