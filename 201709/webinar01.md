@@ -8,9 +8,6 @@
 ### О чем вебинар
 Статистические данные: определения, в чем они помогут, примеры, когда и где их использовать.      
 
-### Статистические данные
-Определение
-
 ### Инструменты, которые нам понадобятся для работы
 
 1. Гуглодок (рабочий дневник, он же журнал исследований).    
@@ -18,7 +15,7 @@
 
 ### Основные материалы вебинара
 1. Презентация:         
-2. Опорный документ вебинара.
+2. Опорный документ вебинара: https://goo.gl/sCeL7w.       
 
 ### Дополнительные материалы
 1. Презентации по поиску открытых данных: https://www.slideshare.net/iradche/open-data-43759996 и https://www.slideshare.net/iradche/open-data-41721805, исторический воркшоп по поиску открытых данных: https://www.slideshare.net/iradche/data-journalism-master-class.     
@@ -29,12 +26,13 @@
 ###  Полезные ссылки
 1. 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/      
 2. A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
-3. 
-4. 
+
 
 
 ### Задания к следующему вебинару
-1. Установить на компьютер программу OpenRefine.             
+1. Установить на компьютер программу OpenRefine (http://openrefine.org/).     
+Скачать OpenRefine: http://openrefine.org/download.html     
+
 2. Желательно к следующему занятию найти интересный набор данных из информационных источников, о которых было рассказано на вебинаре (или найти свой источник данных).      
 
 ### Вопросы 
