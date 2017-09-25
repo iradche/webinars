@@ -17,7 +17,7 @@
 2. OpenRefine.
 
 ### Основные материалы вебинара
-1. Презентация:         
+1. Презентация:   https://github.com/iradche/webinars/blob/master/201709/presentations/Webinar1.DataSearch01.pdf           
 2. Опорный документ вебинара: https://goo.gl/sCeL7w.       
 
 ### Дополнительные материалы
@@ -27,9 +27,7 @@
 3. Коллекция полезных ссылок по Открытым данным и Дата-журналистике: https://data-journalism.zeef.com/irina.radchenko#_=_     
 
 ###  Полезные ссылки
-Конвертер форматов данных: http://www.convertcsv.com/      
-
-
+* Конвертер форматов данных: http://www.convertcsv.com/      
 
 * 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/      
 * A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
