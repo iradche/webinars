@@ -30,7 +30,8 @@
 * Как получить нужную статистику от государства: https://team29.org/knowhow/rosstat/     
 * Почему открытые данные никому не нужны: https://habrahabr.ru/post/331036/      
 
-* Конвертер форматов данных: http://www.convertcsv.com/         
+* Конвертер форматов данных: http://www.convertcsv.com/       
+* Список скрейперов: https://github.com/cassidoo/scrapers     
 
 * 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/      
 * A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
