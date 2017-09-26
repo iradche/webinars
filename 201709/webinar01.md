@@ -21,10 +21,11 @@
 2. Опорный документ вебинара: https://goo.gl/sCeL7w.       
 
 ### Дополнительные материалы
-1. Презентации по поиску открытых данных: https://www.slideshare.net/iradche/open-data-43759996 и https://www.slideshare.net/iradche/open-data-41721805, исторический воркшоп по поиску открытых данных: https://www.slideshare.net/iradche/data-journalism-master-class.     
-
-2. Терминологический словарик: https://docs.google.com/document/d/1O_pLfw9SDl3YPAY4HY19vu_ROO8kro0Gqqnnac11vQw/pub          
-3. Коллекция полезных ссылок по Открытым данным и Дата-журналистике: https://data-journalism.zeef.com/irina.radchenko#_=_     
+1. Презентация по поиску открытых данных: https://www.slideshare.net/iradche/open-data-43759996 (она же: https://github.com/iradche/webinars/blob/master/201709/presentations/opendata-150121164300-conversion-gate02.pdf).      
+2. Презентация о том, что такое открытые данные: https://www.slideshare.net/iradche/open-data-41721805 (она же: https://github.com/iradche/webinars/blob/master/201709/presentations/opendata-141118144912-conversion-gate01.pdf).       
+3. Исторический воркшоп по поиску открытых данных: https://www.slideshare.net/iradche/data-journalism-master-class (она же: https://github.com/iradche/webinars/blob/master/201709/presentations/datajournalismmaster-class-130919113448-phpapp01.pdf).    
+4. Терминологический словарик: https://docs.google.com/document/d/1O_pLfw9SDl3YPAY4HY19vu_ROO8kro0Gqqnnac11vQw/pub          
+5. Коллекция полезных ссылок по Открытым данным и Дата-журналистике: https://data-journalism.zeef.com/irina.radchenko#_=_     
 
 ###  Полезные ссылки
 * Как получить нужную статистику от государства: https://team29.org/knowhow/rosstat/     
