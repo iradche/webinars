@@ -4,7 +4,8 @@
 ### Материалы вебинара
 1. Исходный код OpenRefine на Гитхабе: https://github.com/OpenRefine/OpenRefine. 
 2. Подробнее о процессе установки OpenRefine можно посмотреть здесь: https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions     
-3. Тестовый набор данных: 
+3. Тестовые наборы данных: на русском языке https://raw.githubusercontent.com/iradche/webinars/master/201709/data/university-rus.csv, на английском языке https://raw.githubusercontent.com/iradche/webinars/master/201709/data/universityData.csv      
+Словарь данных: https://github.com/iradche/webinars/blob/master/201709/data/university-dictionary.pdf     
 4. Книга Using OpenRefine: https://www.packtpub.com/big-data-and-business-intelligence/using-openrefine      
 5. OpenRefine Tutorial: http://enipedia.tudelft.nl/wiki/OpenRefine_Tutorial     
 6. OpenRefine Documentation: http://openrefine.org/documentation.html     
@@ -27,8 +28,12 @@
 ### Задания к следующему вебинару
 1. Загрузите наборы данных в OpenRefine. Воспользуйтесь инструментарием OpenRefine для очистки данных (при необходимости).     
 Подумайте о том, что можно интересного и полезного выудить из этих данных: какие вопросы задать, под каким углом на эти данные посмотреть.      
-2. Сохраните ваши мысли в ваш рабочий дневник (он же журнал исследований), сохраните ваш проект (точнее, экспортируйте его в архивный файл tar.gz) и пришлите его (и ссылку на рабочий дневник) по адресу: iradche@gmail.com.     
+2. Сохраните ваши мысли в ваш рабочий дневник (он же журнал исследований), сохраните ваш проект (точнее, экспортируйте его в архивный файл tar.gz) и пришлите его (и ссылку на рабочий дневник) по адресу: iradche@gmail.com.      
+При желании попробуйте сохранить все ваши операции в отдельный файл (возможно даже гуглодок) и сохраните на него ссылку в вашем журнале исследований.    
 
+Опционально: попробуйте воспользоваться инструкциями вебинара и почистите тестовые данные. Пришлите сохраненный проект на почту Ирине Радченко.           
+
+       
 ### Вопросы 
 
 Вопросы можно задать, как во время вебинара, так и после вебинара.
