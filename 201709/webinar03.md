@@ -2,8 +2,9 @@
 Вебинар 29.09.2017 г.  
 
 ### Материалы вебинара
-1. Презентация:      
+1. Презентация: https://github.com/iradche/webinars/blob/master/201709/presentations/Webinar3.DataAnalysis.pdf          
 2. Тестовые данные: 1 - https://github.com/iradche/webinars/blob/master/201709/data/webinar3-1.csv, 2 - https://github.com/iradche/webinars/blob/master/201709/data/webinar3-2.csv, 3 - https://github.com/iradche/webinars/blob/master/201709/data/webinar3-3.xlsx оно же в формате CSV https://github.com/iradche/webinars/blob/master/201709/data/webinar3-3.csv.      
+Данные из проекта ГосЗатраты: https://docs.google.com/spreadsheets/d/1-Uk20iaKuHzMQNmjfIkE0FMs_cLS6ft90OBowBCSReI/edit#gid=564158958            
 
 
 
