@@ -22,7 +22,8 @@
 * А. Б. Шипунов, Е. М. Балдин, П. А. Волкова, А. И. Коробейников,
 С. А. Назарова, С. В. Петров, В. Г. Суфиянов: http://ashipunov.info/shipunov/school/books/rbook.pdf     
 * Статистика. Учебник: http://padaread.com/?book=64944     
-* Gerd Gigerenzer. Calculated Risks: How to Know When Numbers Deceive You: https://www.amazon.com/Calculated-Risks-Know-Numbers-Deceive/dp/0743205561     
+* Gerd Gigerenzer. Calculated Risks: How to Know When Numbers Deceive You: https://www.amazon.com/Calculated-Risks-Know-Numbers-Deceive/dp/0743205561      
+* С. Д. Пуассон. Исследования о вероятности приговоров в уголовных и гражданских делах: http://www.sheynin.de/download/Poisson.pdf      
 
 
 ### Задания 
