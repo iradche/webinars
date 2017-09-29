@@ -2,7 +2,8 @@
 Вебинар 29.09.2017 г.  
 
 ### Материалы вебинара
-1. 
+1. Презентация:      
+2. Тестовые данные: https://github.com/iradche/webinars/blob/master/201709/data/webinar3-1.csv, https://github.com/iradche/webinars/blob/master/201709/data/webinar3-2.csv       
 
 
 ###  Полезные ссылки
