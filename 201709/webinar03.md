@@ -3,7 +3,8 @@
 
 ### Материалы вебинара
 1. Презентация:      
-2. Тестовые данные: https://github.com/iradche/webinars/blob/master/201709/data/webinar3-1.csv, https://github.com/iradche/webinars/blob/master/201709/data/webinar3-2.csv       
+2. Тестовые данные: 1 - https://github.com/iradche/webinars/blob/master/201709/data/webinar3-1.csv, 2 - https://github.com/iradche/webinars/blob/master/201709/data/webinar3-2.csv, 3 - https://github.com/iradche/webinars/blob/master/201709/data/webinar3-3.xlsx оно же в формате CSV https://github.com/iradche/webinars/blob/master/201709/data/webinar3-3.csv.      
+
 
 
 ###  Полезные ссылки
